@@ -1,0 +1,30 @@
+_repo: The-Book-of-Common-Prayerand-The-Scottish-Liturgy_29622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Episcopal Church in Scotland
+    aliases:
+    - Scotch Episcopal Church
+    - Scottish Church
+    - Scottish Episcopal Church
+    gutenberg_agent_id: '34041'
+    url: http://www.gutenberg.org/2009/agents/34041
+description: ''
+gutenberg_issued: '2009-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Episcopal Church in Scotland -- Liturgy -- Texts'
+title: 'The Book of Common Prayer
+
+  and The Scottish Liturgy'
+url: http://www.gutenberg.org/ebooks/29622
